@@ -2,4 +2,4 @@
 
 Ce repository contient projet fait dans le cadre du premier TP du module 
 
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+https://github.com/aymane-ouhadi/tp1-poo-api/actions/workflows/readme.md/badge.svg
